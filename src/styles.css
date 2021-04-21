@@ -29,7 +29,6 @@ h3{
 .look{
     width: 80%;
     float: left; 
-    background-color: antiquewhite;
     min-height: 100vh;
     z-index: 1;
 }
