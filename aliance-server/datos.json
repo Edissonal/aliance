@@ -1,0 +1,53 @@
+{
+  "datos": [
+    {
+      "id": "bc",
+      "shard_key": "ealonso",
+      "Bussines_Id": "Edisson ",
+      "email": "edisson@gmail.com",
+      "phone": 3148822781,
+      "data_add": "20/05/2019"
+    },
+    {
+      "id": "bc",
+      "shard_key": "rsolano",
+      "Bussines_Id": "roberto",
+      "email": "edisson@gmail.com",
+      "phone": 3148822781,
+      "data_add": "20/05/2019"
+    },
+    {
+      "id": "bc",
+      "shard_key": "rbta",
+      "Bussines_Id": "roberta",
+      "email": "edisson@gmail.com",
+      "phone": 3148822781,
+      "data_add": "20/05/2019"
+    },
+    {
+      "id": "bc",
+      "shard_key": "pepsnhy",
+      "Bussines_Id": "alfredo",
+      "email": "edisson@gmail.com",
+      "phone": 3148822781,
+      "data_add": "20/05/2019"
+    },
+    {
+      "id": "bc",
+      "shard_key": "mataq",
+      "Bussines_Id": "maria",
+      "email": "edisson@gmail.com",
+      "phone": 3148822781,
+      "data_add": "20/05/2019"
+    }
+    {
+      "shard_key": "edisson alonso",
+      "phone": "3777777777",
+      "email": "123",
+      "data_add": "2021-04-28",
+      "end_date": "2021-04-30",
+      "Bussines_Id": "edisson alonso",
+      "id": "pmQDMaN"
+    }
+  ]
+}

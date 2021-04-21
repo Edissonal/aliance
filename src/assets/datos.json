@@ -1,0 +1,44 @@
+[
+ {
+   "shard_key": "ealonso",
+   "Bussines_Id": "Edisson ",
+   "email": "edisson@gmail.com",
+   "phone": 3148822781,
+   "data_add": "20/05/2019"
+ },
+ {
+   "shard_key": "rsolano",
+   "Bussines_Id": "roberto",
+   "email": "edisson@gmail.com",
+   "phone": 3148822781,
+   "data_add": "20/05/2019"
+ },
+ {
+   "shard_key": "rbta",
+   "Bussines_Id": "roberta",
+   "email": "edisson@gmail.com",
+   "phone": 3148822781,
+   "data_add": "20/05/2019"
+ },
+ {
+   "shard_key": "pepsnhy",
+   "Bussines_Id": "alfredo",
+   "email": "edisson@gmail.com",
+   "phone": 3148822781,
+   "data_add": "20/05/2019"
+ },
+ {
+   "shard_key": "mataq",
+   "Bussines_Id": "maria",
+   "email": "edisson@gmail.com",
+   "phone": 3148822781,
+   "data_add": "20/05/2019"
+ },
+ {
+   "shard_key": "petti",
+   "Bussines_Id": "pepe",
+   "email": "edisson@gmail.com",
+   "phone": 3148822781,
+   "data_add": "20/05/2019"
+ }
+]

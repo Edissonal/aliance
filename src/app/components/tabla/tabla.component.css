@@ -1,0 +1,29 @@
+table{
+    border: #999999 2px solid;
+    width: 100%;
+    height: 30%;
+    border-collapse: collapse;
+
+}
+
+td{
+    border: #999999 2px solid;
+    padding: 15px;
+    text-align: center;
+    
+}
+tr{
+ 
+}
+tbody{
+    border: #999999 1px solid;
+}
+
+h3{
+    color: #007fc2;
+    
+}
+
+.contenido{
+    color: #717171;
+}

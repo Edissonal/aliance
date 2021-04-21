@@ -1,0 +1,13 @@
+
+<div class="contenido">
+<button class="botones" (click)="ingresa()"><i class="fas fa-plus"></i> new</button>
+<button class="botones"><i class="fas fa-address-card"></i> Export</button>
+
+<br>
+<br>
+<div class="formulario">
+<input type="search" placeholder="Enter shared Key" class="campos" #termino >
+<button type="submit" class="busqueda" (click)="busca(termino.value)">search</button>
+</div>
+<button class="botones" (click)="abrir()"> Avenced search</button>
+</div>

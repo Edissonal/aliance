@@ -1,0 +1,23 @@
+<br>
+<br>
+<h3>
+            Clients
+        </h3>
+	<table >
+			<tr>
+				<td class="titulos">shard key</td>
+				<td class="titulos">Bussines Id</td>
+				<td class="titulos">email</td>
+                <td class="titulos">phone</td>
+                <td class="titulos">Data Add</td>
+                <td class="titulos"><i class="fas fa-edit"></i></td>
+			</tr>
+			<tr *ngFor="let cli of clientes">
+                <td class="contenido">{{cli.shard_key}}</td>
+                <td class="contenido">{{cli.Bussines_Id}}</td>
+                <td class="contenido">{{cli.email}}</td>
+                <td class="contenido">{{cli.phone}}</td>
+                <td class="contenido">{{cli.data_add}}</td>
+                <td class="contenido"><i class="fas fa-edit"></i></td>
+            </tr>
+		</table>

@@ -1,0 +1,26 @@
+<div class="container">
+    <div class="banner">
+        <app-feel></app-feel>
+    </div>
+    <div class="color">
+        <div class="look">
+            <app-look (status)="validaciones($event)" 
+                      (searhc)="datos($event)"
+                      (abre)="ingre($event)"></app-look>
+            <div class="looksub" *ngIf="muestra == true">
+                <app-busqueda (status)="validaciones($event)"></app-busqueda>
+            </div>
+            <div class="caja" *ngIf="ing == true">
+                <div class="vista">
+                    <app-ingresa (status)="ingre($event)"
+                                 (status)="llamado()"></app-ingresa>
+                </div>
+            </div>
+            <br>
+            <br>
+            <div class="tabla">
+                <app-tabla [clientes]="clientes"></app-tabla>
+            </div>
+        </div>
+    </div>
+</div>

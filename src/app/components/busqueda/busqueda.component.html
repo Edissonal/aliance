@@ -1,0 +1,47 @@
+<div class="bus">
+<form  [formGroup]="formaForm"  (ngSubmit)="onSubmit()"  #close>
+  <div class="colum">
+    <label >name</label>
+    <input type="text" 
+           class="campi"
+           formControlName="name"
+           [class.invalida]="nameNovalido">
+</div>
+<div class="colum">
+    <label>phone</label>
+    <input type="text" 
+           class="campi"
+           formControlName="phone"
+           [class.invalida]="nameNophone">
+</div>
+    <div class="colum">
+    <label>Email</label>
+    <input type="email" 
+           class="campi"
+           formControlName="email"
+           [class.invalida]="nameNoemail">
+</div>
+
+    <div class="colum">
+    <label>star date</label>
+    <input type="date" 
+           class="campi"
+           formControlName="star_date"
+           [class.invalida]="nameNostar_date">
+</div>
+    <div class="colum">
+    <label>End date</label>
+    <input  type="date" 
+            class="campi"
+            formControlName="end_date"
+            [class.invalida]="nameNoend_date">
+</div>
+
+<div class="colum">
+    
+<button type="submit" 
+        class="botones">Ok</button>
+</div>
+
+</form>
+</div>
